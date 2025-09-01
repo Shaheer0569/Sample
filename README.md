@@ -1,5 +1,10 @@
 # Sample
 assasasasasasasa
+
+
+this text has not been merged yet
+
+
 ***This is my first repository :DD :))***
 ## Sample2
 >THIS IS CODE AAAAAA
