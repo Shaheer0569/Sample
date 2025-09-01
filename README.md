@@ -1,6 +1,6 @@
 # Sample
-This is my first repository :DD :))
+***This is my first repository :DD :))***
 ## Sample2
-smoll heading
+>THIS IS CODE AAAAAA
 ### Sample3
-even smoller heading
+~~even smoller heading~~
